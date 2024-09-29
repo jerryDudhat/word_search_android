@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "897212619277",
+    "project_id": "word-search-game-android",
+    "storage_bucket": "word-search-game-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897212619277:android:93e27eb42bccd1775e9344",
+        "android_client_info": {
+          "package_name": "com.word.serach.game"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGBoPvfyRShx58SD_fOFSqh1NkkdVrjs4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
